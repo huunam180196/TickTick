@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_img_Right">20dp</dimen>
+    <dimen name="name_size">20sp</dimen>
+    <dimen name="element_size">15sp</dimen>
+    <dimen name="margin_element">20dp</dimen>
+
+</resources>
